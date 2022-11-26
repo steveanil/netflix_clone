@@ -4,7 +4,7 @@ const Profile = () => {
   console.log('Profile');
   return (
     <div>
-      Profile
+      Profiles
     </div>
   );
 };

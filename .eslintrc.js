@@ -34,7 +34,7 @@ module.exports = {
     ],
     'max-len': [
       2,
-      250,
+      270,
     ],
     'no-multiple-empty-lines': [
       'error',

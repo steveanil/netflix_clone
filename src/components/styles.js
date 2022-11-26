@@ -9,7 +9,7 @@ export default makeStyles(() => ({
     height: '70px',
   },
   content: {
-    flexGrow: '5',
+    flexGrow: '1',
     padding: '2em',
   },
 }));
